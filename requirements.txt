@@ -1,0 +1,22 @@
+# GEE and Mapping
+earthengine-api>=0.1.380
+geemap>=0.32.0
+folium>=0.15.0
+geopandas>=0.14.0
+
+# Data Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.17.0
+
+# Jupyter and Interactive Widgets
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+jupyterlab>=4.0.0
+
+# Additional Utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
+tqdm>=4.65.0

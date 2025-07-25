@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# GEE credentials
+.config/earthengine/
+earthengine-credentials.json
+
+# Output files
+outputs/temp/
+*.tif
+*.shp
+*.kml
+*.kmz
+
+# Data cache
+data/cache/
+data/temp/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Python virtual environment
+venv/
+env/
+.venv/

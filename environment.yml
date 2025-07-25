@@ -1,0 +1,23 @@
+name: heatinsights
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - jupyter
+  - jupyterlab
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - plotly
+  - geopandas
+  - folium
+  - requests
+  - tqdm
+  - pip:
+    - earthengine-api>=0.1.380
+    - geemap>=0.32.0
+    - python-dotenv>=1.0.0
+    - ipywidgets>=8.0.0
