@@ -1,0 +1,12 @@
+{
+  "analysis_date": "2025-08-14T11:58:22.024223",
+  "analysis_period": "2020-2024",
+  "baseline_period": "1981-2010",
+  "selected_cities": [
+    {
+      "name": "Aracaju, Brazil",
+      "population": 921331.8394,
+      "country": "Brazil"
+    }
+  ]
+}

@@ -1,6 +1,27 @@
 {
   "permissions": {
     "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(chmod:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(/Users/martynclark/opt/anaconda3/bin/python -c \"import geemap; print(''✅ Geemap version:'', geemap.__version__)\")",
+      "Bash(./venv/bin/pip install geemap)",
+      "Bash(rm:*)",
+      "Bash(./venv/bin/pip install climdx-kit==1.0.1)",
+      "Bash(./venv/bin/pip search \"climate\")",
+      "Bash(./venv/bin/pip install --dry-run climate-indices)",
+      "Bash(./venv/bin/pip install xclim)",
+      "Bash(./venv/bin/pip install climate-indices)",
+      "Bash(./venv/bin/python -c \"import climate_indices; print(''✅ Climate indices version:'', climate_indices.__version__)\")",
+      "Bash(./venv/bin/pip install:*)",
+      "Bash(./venv/bin/python -c \"from scipy import stats; print(''✅ Scipy imported successfully'')\")",
+      "Bash(./venv/bin/python -c \"import climate_indices; from sklearn.linear_model import LinearRegression; print(''✅ Both climate_indices and scikit-learn imported successfully'')\")",
+      "Bash(./venv/bin/python:*)",
+      "WebFetch(domain:www.climdex.org)",
+      "Bash(mv:*)",
       "Bash(git add:*)"
     ],
     "deny": []
