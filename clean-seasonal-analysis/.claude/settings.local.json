@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(sed:*)",
+      "Bash(cp:*)",
+      "Bash(touch:*)",
+      "Read(//Users/martynclark/Downloads/**)",
+      "Bash(rm:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
