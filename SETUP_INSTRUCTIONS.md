@@ -1,6 +1,6 @@
-# EHF Heat Insights Setup Instructions
+# Heat Insights Setup Instructions
 
-This project implements the Excess Heat Factor (EHF) methodology for extreme heat analysis using Google Earth Engine and Jupyter notebooks.
+This project implements a simple methodology for extreme heat analysis using Google Earth Engine and Jupyter notebooks.
 
 ## Quick Setup
 
