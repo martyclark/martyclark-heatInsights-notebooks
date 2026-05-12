@@ -1,0 +1,18 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+xarray>=2023.1
+scipy>=1.10
+netCDF4>=1.6
+
+# Geospatial
+geopandas>=0.13
+shapely>=2.0
+geobr>=0.3         # Brazilian municipality and neighbourhood boundaries
+
+# GEE access (only needed for 01_data_acquisition)
+earthengine-api>=0.1.370
+geemap>=0.28
+
+# Visualisation
+matplotlib>=3.7
