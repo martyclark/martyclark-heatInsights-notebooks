@@ -25,6 +25,14 @@ outputs/temp/
 data/cache/
 data/temp/
 
+# Large raw temperature / population grids (>50 MB — too large for GitHub without LFS)
+# These are derived from GEE/WorldPop and must be regenerated locally via 01_data_acquisition
+heat_threshold_analysis/data/*_tmin.nc
+heat_threshold_analysis/data/*_tmax.nc
+heat_threshold_analysis/data/*_population.nc
+heat_threshold_analysis/data/_tmp_*/
+*_executed.ipynb
+
 # macOS
 .DS_Store
 
