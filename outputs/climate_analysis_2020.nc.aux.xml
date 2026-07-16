@@ -1,0 +1,86 @@
+<PAMDataset>
+  <Subdataset name="threshold_used">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">37.4</MDI>
+          <MDI key="STATISTICS_MEAN">35.588819776714</MDI>
+          <MDI key="STATISTICS_MINIMUM">35</MDI>
+          <MDI key="STATISTICS_STDDEV">0.59064129534631</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="temperature_trend">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">0.31102731643612</MDI>
+          <MDI key="STATISTICS_MEAN">0.097737045774694</MDI>
+          <MDI key="STATISTICS_MINIMUM">-0.33069684565431</MDI>
+          <MDI key="STATISTICS_STDDEV">0.090829488010534</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="reference_percentile">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">37.4</MDI>
+          <MDI key="STATISTICS_MEAN">19.649266347687</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">17.967989877204</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="heat_days">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">6</MDI>
+          <MDI key="STATISTICS_MEAN">2.6259968102073</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">2.479516162864</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="annual_range">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">20.3</MDI>
+          <MDI key="STATISTICS_MEAN">10.795614035088</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">9.9362531919116</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="annual_min">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">18.2</MDI>
+          <MDI key="STATISTICS_MEAN">9.6709728867623</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">8.9002976229772</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="annual_max">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">37.9</MDI>
+          <MDI key="STATISTICS_MEAN">20.46658692185</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">18.834235133708</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>

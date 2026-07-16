@@ -1,0 +1,2 @@
+analysis_date,location,data_source,analysis_period,thresholds_analyzed,temperature_metric,spatial_resolution,total_days_analyzed,min_temperature,max_temperature,avg_temperature_mean
+2026-03-17T16:27:04.461165,"Salvador Metropolitan Area, Brazil",GSHTD (Global Surface Heat Temperature Dataset),2003-01-01 to 2023-12-31,"[25, 28, 30]",Average temperature = (TMAX + TMIN) / 2,1000m,6495,10.9°C,88.0°C,26.0°C

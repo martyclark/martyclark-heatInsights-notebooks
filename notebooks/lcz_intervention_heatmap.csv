@@ -1,0 +1,47 @@
+Intervention,Category,LCZ 1: Compact high-rise,LCZ 2: Compact midrise,LCZ 3: Compact low-rise,LCZ 4: Open high-rise,LCZ 5: Open midrise,LCZ 6: Open low-rise,LCZ 7: Lightweight low-rise,LCZ 8: Large low-rise,LCZ 9: Sparsely built,LCZ 10: Heavy industry,LCZ 11: Dense trees (A),LCZ 12: Scattered trees (B),LCZ 13: Bush / scrub (C),LCZ 14: Low plants (D),LCZ 15: Bare rock / paved (E),LCZ 16: Bare soil / sand (F),LCZ 17: Water (G)
+Expand Urban Biodiversity through Nature-Based Solutions,Ecosystem-Based/Nature-Based,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+Expand and Enhance Parks and Public Green Spaces,Ecosystem-Based/Nature-Based,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Install Green Roofs to Reduce Urban Heat,Ecosystem-Based/Nature-Based,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Integrate Green-Blue Infrastructure in City Projects,Ecosystem-Based/Nature-Based,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+Launch Tree Planting Campaigns on Public and Private Land,Ecosystem-Based/Nature-Based,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0
+Plant Street Trees to Create Cool Corridors and Provide Shading and Cooling,Ecosystem-Based/Nature-Based,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0
+Restore and Expand Forest and Degraded Ecosystems through Afforestation,Ecosystem-Based/Nature-Based,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+Deploy Cool and Light-Colored Pavement Materials,Engineering & Built Environment,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Improve Building Envelopes with Heat-Resilient Materials,Engineering & Built Environment,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Incorporate Natural Shading and Ventilation in Building Design,Engineering & Built Environment,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Install Cooling Systems in Transit Stations,Engineering & Built Environment,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Install Permeable Pavements,Engineering & Built Environment,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Install Public Shading Structures in Urban Spaces,Engineering & Built Environment,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Install Public Water Features for Urban Cooling,Engineering & Built Environment,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Replace Impervious Surfaces to Reduce Urban Heat and Runoff,Engineering & Built Environment,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0
+Retrofit Urban Infrastructure for Climate and Heat Resilience,Engineering & Built Environment,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Encourage Energy and Thermal Benchmarking in Buildings,Informational,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Launch Public Heat Awareness and Education Campaigns,Informational,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Launch Training and Upskilling Programs for Heat-Resilient Jobs,Informational,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Train Building Operators in Energy and Heat Management,Informational,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Adopt Thermal Comfort Policies for Buildings and Public Spaces,Laws & Regulations,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Enforce Energy Performance Standards for Existing Commercial Buildings,Laws & Regulations,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Enforce Energy Performance Standards for Existing Residential Buildings,Laws & Regulations,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Enforce Occupational Heat Safety Policies for Outdoor Workers,Laws & Regulations,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Enforce Tree Protection Regulations in Urban Areas,Laws & Regulations,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0
+Integrate Heat Resilience Criteria into Environmental Impact Assessments,Laws & Regulations,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Adopt New Energy-Efficient Building Standards for Institutional Buildings,Policies & Programs,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adopt New Energy-Efficient Building Standards for Residential Buildings,Policies & Programs,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Aggregate Cooling Demand to Improve Energy Efficiency,Policies & Programs,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Create a Financial Support Program for Extreme Weather Event Response,Policies & Programs,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Develop District Heating and Cooling Networks,Policies & Programs,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Develop Heat-Resilient Urban Design Guidelines,Policies & Programs,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Develop an Urban Forestry Plan,Policies & Programs,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+Develop and Activate a Heat Emergency Response Plan,Policies & Programs,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Establish Community Cooling Centers for Heat Emergency Relief,Policies & Programs,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Establish Heat Hotlines for Emergency Assistance,Policies & Programs,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Establish Payments for Urban Ecosystem Services (PUES),Policies & Programs,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+Launch Wellness Check Programs for Heat-Vulnerable Populations,Policies & Programs,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Maintain and Expand Public Transit Services during Heatwaves,Policies & Programs,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Offer Property Tax Rebates for Heat-Resilient Building Upgrades,Policies & Programs,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Promote Net-Zero and Green Building Certifications,Policies & Programs,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Support Access to Efficient Residential Air Conditioning With Clean Energy,Policies & Programs,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Develop Transit-Oriented Neighborhoods to Reduce Heat Exposure,Structural/Physical,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Develop Urban and Community Gardens,Structural/Physical,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Reform Urban Form to Reduce Heat Exposure and Carbon Emissions,Structural/Physical,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Deploy a Heat Early Warning and Hydrometeorological Monitoring System,Technological,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0

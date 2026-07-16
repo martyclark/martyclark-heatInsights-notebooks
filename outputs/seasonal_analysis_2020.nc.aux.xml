@@ -1,0 +1,108 @@
+<PAMDataset>
+  <Subdataset name="seasonal_percentiles_mean">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">37.478579234973</MDI>
+          <MDI key="STATISTICS_MEAN">33.285292869078</MDI>
+          <MDI key="STATISTICS_MINIMUM">31.8</MDI>
+          <MDI key="STATISTICS_STDDEV">1.5302853289115</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="seasonal_heat_days">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Histograms>
+          <HistItem>
+            <HistMin>-0.45</HistMin>
+            <HistMax>9.449999999999999</HistMax>
+            <BucketCount>10</BucketCount>
+            <IncludeOutOfRange>0</IncludeOutOfRange>
+            <Approximate>0</Approximate>
+            <HistCounts>773|0|0|0|41|0|0|11|624|3</HistCounts>
+          </HistItem>
+        </Histograms>
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">9</MDI>
+          <MDI key="STATISTICS_MEAN">3.6225895316804</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">3.9206294702619</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="heat_days_difference">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">2</MDI>
+          <MDI key="STATISTICS_MEAN">-1.034435261708</MDI>
+          <MDI key="STATISTICS_MINIMUM">-6</MDI>
+          <MDI key="STATISTICS_STDDEV">1.3001054833541</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="annual_range">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">20.3</MDI>
+          <MDI key="STATISTICS_MEAN">9.3234848484848</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">9.9494441462837</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="annual_percentile">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">37.4</MDI>
+          <MDI key="STATISTICS_MEAN">33.279325068871</MDI>
+          <MDI key="STATISTICS_MINIMUM">31.8</MDI>
+          <MDI key="STATISTICS_STDDEV">1.5221718884432</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="annual_min">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">18.2</MDI>
+          <MDI key="STATISTICS_MEAN">8.3522038567493</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">8.9122297712544</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="annual_max">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">37.9</MDI>
+          <MDI key="STATISTICS_MEAN">17.675688705234</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">18.8596766894</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="annual_heat_days">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">13</MDI>
+          <MDI key="STATISTICS_MEAN">4.6570247933884</MDI>
+          <MDI key="STATISTICS_MINIMUM">0</MDI>
+          <MDI key="STATISTICS_STDDEV">5.1306080884737</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>

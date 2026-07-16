@@ -1,0 +1,12 @@
+Downloaded       : 2026-04-02
+ERA5_TX_PATH     : ../data/era5_tx_daily.nc
+GEE_PROJECT      : tl-cities
+GEE collection   : ECMWF/ERA5/DAILY
+GEE band         : maximum_2m_air_temperature
+GEE_ERA5_START   : 1979-01-01
+GEE_ERA5_END     : 2024-01-01
+DEFAULT_LAT      : -12.97
+DEFAULT_LON      : -38.51
+ROI_BUFFER_DEG   : 1.0
+ROI bbox         : lon [-39.5100, -37.5100]  lat [-13.9700, -11.9700]
+Grid             : 8 lats x 8 lons x 15165 days

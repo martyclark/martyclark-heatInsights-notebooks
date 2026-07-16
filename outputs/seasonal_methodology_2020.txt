@@ -1,0 +1,56 @@
+SEASONAL EXTREME HEAT DAYS ANALYSIS - METHODOLOGY REPORT
+===========================================================
+Generated: 2025-09-17T11:58:55.146828
+Analysis Year: 2020
+Reference Period: 2003-2019
+
+METHODOLOGY:
+============
+Formula: Surface_Heat_Day = 1 if LST_daily_max > max(LST_abs, LST_rel)
+
+Where:
+- LST_abs = 35.0°C (absolute threshold)
+- LST_rel = 90.0th percentile of temperatures for calendar day ± 5 days
+- Calendar day window: Each day compared to historical temperatures for same day ± 5 days
+- Reference period: 17 years of historical data
+
+SCIENTIFIC RATIONALE:
+====================
+1. Seasonal Context: July heat vs January heat appropriately weighted
+2. Climatological Accuracy: Follows meteorological best practices
+3. Sensitive Detection: Can identify winter/spring heat anomalies
+4. Day-specific Baselines: Each day compared to its historical context
+
+RESULTS SUMMARY:
+===============
+Seasonal Method:
+- Mean heat days: 3.6
+- Max heat days: 9
+- Pixels with heat days: 679 of 1452
+
+Annual Method (comparison):
+- Mean heat days: 4.7
+- Max heat days: 13
+- Pixels with heat days: 679 of 1452
+
+DIFFERENCE (Seasonal - Annual):
+- Mean difference: -1.0 days
+- Correlation: 0.994
+
+COORDINATE REFERENCE SYSTEM:
+===========================
+- CRS: EPSG:4326 (WGS84 Geographic)
+- Units: Decimal degrees
+- Datum: World Geodetic System 1984
+- NetCDF includes proper CF-compliant CRS metadata
+
+FILES GENERATED:
+===============
+1. ../outputs/seasonal_comparison_2020.csv - Method comparison summary
+2. ../outputs/seasonal_pixels_2020.csv - Detailed pixel-level results
+3. ../outputs/seasonal_analysis_2020.nc - NetCDF spatial dataset WITH PROPER CRS
+4. seasonal_methodology_2020.txt - This documentation
+
+The seasonal methodology provides more climatologically appropriate 
+extreme heat detection by accounting for natural seasonal temperature cycles.
+NetCDF file includes proper CRS metadata for GIS compatibility.

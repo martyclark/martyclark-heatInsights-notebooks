@@ -1,0 +1,5 @@
+Variable,Dataset,Mean (°C),Std (°C),Min (°C),Max (°C),p90 (°C),p95 (°C),p99 (°C),ISU–VITO bias (°C),RMSE (°C),Pearson r
+Tmax,VITO UrbClim 100m,27.33,1.7,23.06,32.92,29.47,30.08,31.17,,,
+Tmax,ISU GSHTD 1km,29.96,4.98,-9.41,88.24,34.4,36.4,41.75,2.63,5.54,0.237
+Tmin,VITO UrbClim 100m,24.59,1.16,21.2,27.74,26.07,26.37,26.88,,,
+Tmin,ISU GSHTD 1km,21.55,2.3,11.9,29.23,24.28,25.01,26.53,-3.04,3.56,0.603

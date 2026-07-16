@@ -31,7 +31,24 @@ heat_threshold_analysis/data/*_tmin.nc
 heat_threshold_analysis/data/*_tmax.nc
 heat_threshold_analysis/data/*_population.nc
 heat_threshold_analysis/data/_tmp_*/
+heat_threshold_analysis/data/*.zip
+heat_threshold_analysis/data/*.gpkg
+heat_threshold_analysis/data/*.geojson
+heat_threshold_analysis/data/povmap-grdi-v1-*/
+heat_threshold_analysis/data/salvador_urbclim_tx90p_thresh.nc
 *_executed.ipynb
+
+# Climate/temperature NetCDF and spatial data files in data/
+data/*.nc
+data/*.gpkg
+data/neighbourhoodShapes/
+
+# Climate dataset directories
+CHELSA/
+
+# R history
+.Rhistory
+heat_threshold_analysis/.Rhistory
 
 # macOS
 .DS_Store

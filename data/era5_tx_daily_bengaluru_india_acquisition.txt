@@ -1,0 +1,12 @@
+Downloaded       : 2026-05-08
+ERA5_TX_PATH     : ../data/era5_tx_daily_bengaluru_india.nc
+GEE_PROJECT      : tl-cities
+GEE collection   : ECMWF/ERA5/DAILY
+GEE band         : maximum_2m_air_temperature
+GEE_ERA5_START   : 1979-01-01
+GEE_ERA5_END     : 2024-01-01
+DEFAULT_LAT      : 12.97
+DEFAULT_LON      : 77.59
+ROI_BUFFER_DEG   : 1.0
+ROI bbox         : lon [76.5900, 78.5900]  lat [11.9700, 13.9700]
+Grid             : 8 lats x 8 lons x 15165 days
